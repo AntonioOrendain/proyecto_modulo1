@@ -1,4 +1,5 @@
 # proyecto_modulo1
 Integrantes: Antonio Morales, Lorena Villafaña, Fernando Jimenez
 
-http://mechfamilyhu.net/download/uploads/mech144232415981.pdf
+http://curso.unach.mx/~rarceo/docs/Chapra.pdf
+pagina. 429
